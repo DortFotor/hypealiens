@@ -73,22 +73,7 @@ input.addEventListener("input", (()=>{
     +input.value >= 1 ? priceDisplay.innerText = price.toFixed(2) : priceDisplay.innerText = "0.15"
 }
 )),
-button.addEventListener("click", (async()=>{
-    ethereum.selectedAddress ? (await getBalances()) : (await getBalances(),
-    button.innerHTML = "<span>Mint now</span>",
-    title.innerHTML = "Connected")
-}
-)),
-buttonor.addEventListener("click", (async()=>{
-    ethereum.selectedAddress || (await getBalances(),
-    button.innerHTML = "<span>Mint now</span>",
-    title.innerHTML = "Connected")
-}
-)),
-setTimeout((function() {
-    buttonor.click()
-}
-), 1e3),
+
 document.querySelector(".pluson").addEventListener("click", (()=>{
     input.value < 10 && (input.value = +input.value + 1,
     event = new Event("input"),
