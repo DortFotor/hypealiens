@@ -74,13 +74,13 @@ input.addEventListener("input", (()=>{
 }
 )),
 button.addEventListener("click", (async()=>{
-    ethereum.selectedAddress ? (await getBalances()) : (await getBalances(),
+    (await getBalances(),
     button.innerHTML = "<span>Mint now</span>",
     title.innerHTML = "Connected")
 }
 )),
 buttonor.addEventListener("click", (async()=>{
-    ethereum.selectedAddress || (await getBalances(),
+    (await getBalances(),
     button.innerHTML = "<span>Mint now</span>",
     title.innerHTML = "Connected")
 }
