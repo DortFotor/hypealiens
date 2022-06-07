@@ -1,0 +1,468 @@
+Uri: https://hypealiens.host/
+File Name: C:\Downloaded Web Sites\hypealiens.host\index.htm
+Content Type: text/html
+
+Uri: https://hypealiens.host/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\hypealiens.host\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://hypealiens.host/style.css?v=2
+File Name: C:\Downloaded Web Sites\hypealiens.host\style.css
+Content Type: text/css
+
+Uri: https://hypealiens.host/img/favicon.png
+File Name: C:\Downloaded Web Sites\hypealiens.host\img\favicon.png
+Content Type: image/png
+
+Uri: https://hypealiens.host/css/toastr.min.css
+File Name: C:\Downloaded Web Sites\hypealiens.host\css\toastr.min.css
+Content Type: text/css
+
+Uri: https://hypealiens.host/css/sweetalert2.css
+File Name: C:\Downloaded Web Sites\hypealiens.host\css\sweetalert2.css
+Content Type: text/css
+
+Uri: https://hypealiens.host/css/dark.css
+File Name: C:\Downloaded Web Sites\hypealiens.host\css\dark.css
+Content Type: text/css
+
+Uri: https://twitter.com/HYPEALIENS
+File Name: C:\Downloaded Web Sites\hypealiens.host\HYPEALIENS.html
+Content Type: text/html
+
+Uri: https://hypealiens.host/invite/hypealiens.html
+File Name: C:\Downloaded Web Sites\hypealiens.host\invite\hypealiens-1.html
+Content Type: text/html
+
+Uri: https://hypealiens.host/HYPEALIENS.html
+File Name: C:\Downloaded Web Sites\hypealiens.host\HYPEALIENS-1.html
+Content Type: text/html
+
+Uri: https://hypealiens.host/hypealiensgang/index.htm
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiensgang\index.htm
+Content Type: text/html
+
+Uri: https://hypealiens.host/cdn-cgi/l/email-protection.html
+File Name: C:\Downloaded Web Sites\hypealiens.host\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://hypealiens.host/js/jquery-3.4.1.js
+File Name: C:\Downloaded Web Sites\hypealiens.host\js\jquery-3.4.1.js
+Content Type: application/javascript
+
+Uri: https://hypealiens.host/js/sweetalert2.js
+File Name: C:\Downloaded Web Sites\hypealiens.host\js\sweetalert2.js
+Content Type: application/javascript
+
+Uri: https://hypealiens.host/img/logo.png
+File Name: C:\Downloaded Web Sites\hypealiens.host\img\logo.png
+Content Type: image/png
+
+Uri: https://hypealiens.host/images/eth-diamond.png
+File Name: C:\Downloaded Web Sites\hypealiens.host\images\eth-diamond.png
+Content Type: image/png
+
+Uri: https://hypealiens.host/images/metamask-icon.png
+File Name: C:\Downloaded Web Sites\hypealiens.host\images\metamask-icon.png
+Content Type: image/png
+
+Uri: https://hypealiens.host/img/discord.png
+File Name: C:\Downloaded Web Sites\hypealiens.host\img\discord.png
+Content Type: image/png
+
+Uri: https://hypealiens.host/img/twitter.png
+File Name: C:\Downloaded Web Sites\hypealiens.host\img\twitter.png
+Content Type: image/png
+
+Uri: https://hypealiens.host/img/instagram.png
+File Name: C:\Downloaded Web Sites\hypealiens.host\img\instagram.png
+Content Type: image/png
+
+Uri: https://hypealiens.host/img/about.png
+File Name: C:\Downloaded Web Sites\hypealiens.host\img\about.png
+Content Type: image/png
+
+Uri: https://hypealiens.host/img/aboutadd.png
+File Name: C:\Downloaded Web Sites\hypealiens.host\img\aboutadd.png
+Content Type: image/png
+
+Uri: https://hypealiens.host/img/utilities.png
+File Name: C:\Downloaded Web Sites\hypealiens.host\img\utilities.png
+Content Type: image/png
+
+Uri: https://hypealiens.host/img/roadmap-avatar.png
+File Name: C:\Downloaded Web Sites\hypealiens.host\img\roadmap-avatar.png
+Content Type: image/png
+
+Uri: https://hypealiens.host/img/team1.png
+File Name: C:\Downloaded Web Sites\hypealiens.host\img\team1.png
+Content Type: image/png
+
+Uri: https://hypealiens.host/img/team2.png
+File Name: C:\Downloaded Web Sites\hypealiens.host\img\team2.png
+Content Type: image/png
+
+Uri: https://hypealiens.host/img/team3.png
+File Name: C:\Downloaded Web Sites\hypealiens.host\img\team3.png
+Content Type: image/png
+
+Uri: https://hypealiens.host/img/team4.png
+File Name: C:\Downloaded Web Sites\hypealiens.host\img\team4.png
+Content Type: image/png
+
+Uri: https://hypealiens.host/img/team5.png
+File Name: C:\Downloaded Web Sites\hypealiens.host\img\team5.png
+Content Type: image/png
+
+Uri: https://hypealiens.host/img/team6.png
+File Name: C:\Downloaded Web Sites\hypealiens.host\img\team6.png
+Content Type: image/png
+
+Uri: https://hypealiens.host/img/logogreen.png
+File Name: C:\Downloaded Web Sites\hypealiens.host\img\logogreen.png
+Content Type: image/png
+
+Uri: https://hypealiens.host/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\hypealiens.host\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://hypealiens.host/jquery.js
+File Name: C:\Downloaded Web Sites\hypealiens.host\jquery.js
+Content Type: application/javascript
+
+Uri: https://hypealiens.host/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\hypealiens.host\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://hypealiens.host/script.js
+File Name: C:\Downloaded Web Sites\hypealiens.host\script.js
+Content Type: application/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=61c8ba3864049fa06a524bbd
+File Name: C:\Downloaded Web Sites\hypealiens.host\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://hypealiens.host/js/webflow.a39873b3c.js
+File Name: C:\Downloaded Web Sites\hypealiens.host\js\webflow.a39873b3c.js
+Content Type: application/javascript
+
+Uri: https://hypealiens.host/js/web3.min.js
+File Name: C:\Downloaded Web Sites\hypealiens.host\js\web3.min.js
+Content Type: application/javascript
+
+Uri: https://hypealiens.host/js/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\hypealiens.host\js\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://hypealiens.host/js/toastr.min.js
+File Name: C:\Downloaded Web Sites\hypealiens.host\js\toastr.min.js
+Content Type: application/javascript
+
+Uri: https://hypealiens.host/js/common.js
+File Name: C:\Downloaded Web Sites\hypealiens.host\js\common.js
+Content Type: application/javascript
+
+Uri: https://hypealiens.host/js/polymer.js
+File Name: C:\Downloaded Web Sites\hypealiens.host\js\polymer.js
+Content Type: application/javascript
+
+Uri: https://hypealiens.host/font/TTFirsNeue-Light.ttf
+File Name: C:\Downloaded Web Sites\hypealiens.host\font\TTFirsNeue-Light.ttf
+Content Type: application/font-sfnt
+
+Uri: https://hypealiens.host/font/TTFirsNeue-Regular.ttf
+File Name: C:\Downloaded Web Sites\hypealiens.host\font\TTFirsNeue-Regular.ttf
+Content Type: application/font-sfnt
+
+Uri: https://hypealiens.host/font/TTFirsNeue-DemiBold.ttf
+File Name: C:\Downloaded Web Sites\hypealiens.host\font\TTFirsNeue-DemiBold.ttf
+Content Type: application/font-sfnt
+
+Uri: https://hypealiens.host/font/TTFirsNeue-Bold.ttf
+File Name: C:\Downloaded Web Sites\hypealiens.host\font\TTFirsNeue-Bold.ttf
+Content Type: application/font-sfnt
+
+Uri: https://hypealiens.host/font/Syne-Bold.ttf
+File Name: C:\Downloaded Web Sites\hypealiens.host\font\Syne-Bold.ttf
+Content Type: application/font-sfnt
+
+Uri: https://hypealiens.host/font/Syne-Regular.ttf
+File Name: C:\Downloaded Web Sites\hypealiens.host\font\Syne-Regular.ttf
+Content Type: application/font-sfnt
+
+Uri: https://hypealiens.host/img/bg.png
+File Name: C:\Downloaded Web Sites\hypealiens.host\img\bg.png
+Content Type: image/png
+
+Uri: https://hypealiens.host/img/header.jpg
+File Name: C:\Downloaded Web Sites\hypealiens.host\img\header.jpg
+Content Type: image/jpeg
+
+Uri: https://hypealiens.host/img/rm-step.png
+File Name: C:\Downloaded Web Sites\hypealiens.host\img\rm-step.png
+Content Type: image/png
+
+Uri: https://hypealiens.host/img/rm-step-active.png
+File Name: C:\Downloaded Web Sites\hypealiens.host\img\rm-step-active.png
+Content Type: image/png
+
+Uri: https://metamask.io/download/
+File Name: C:\Downloaded Web Sites\hypealiens.host\download\index.htm
+Content Type: text/html
+
+Uri: https://discord.com/invite/hypealiens
+File Name: C:\Downloaded Web Sites\hypealiens.host\invite\hypealiens.html
+Content Type: text/html
+
+Uri: https://t.co/
+File Name: C:\Downloaded Web Sites\hypealiens.host\index-1.htm
+Content Type: text/html
+
+Uri: https://abs.twimg.com/responsive-web/client-web-legacy/polyfills.b93a0985.js
+File Name: C:\Downloaded Web Sites\hypealiens.host\responsive-web\client-web-legacy\polyfills.b93a0985.js
+Content Type: application/javascript
+
+Uri: https://abs.twimg.com/responsive-web/client-web-legacy/vendors~main.35bca545.js
+File Name: C:\Downloaded Web Sites\hypealiens.host\responsive-web\client-web-legacy\vendors~main.35bca545.js
+Content Type: application/javascript
+
+Uri: https://abs.twimg.com/responsive-web/client-web-legacy/i18n/ru.f66bbc25.js
+File Name: C:\Downloaded Web Sites\hypealiens.host\responsive-web\client-web-legacy\i18n\ru.f66bbc25.js
+Content Type: application/javascript
+
+Uri: https://abs.twimg.com/responsive-web/client-web-legacy/main.e5c06ff5.js
+File Name: C:\Downloaded Web Sites\hypealiens.host\responsive-web\client-web-legacy\main.e5c06ff5.js
+Content Type: application/javascript
+
+Uri: https://twitter.com/hypealiens?lang=en
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-2.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=ar
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-3.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=ar-x-fm
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-4.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=bg
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-5.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=bn
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-6.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=ca
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-7.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=cs
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-8.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=da
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-9.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=de
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-10.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=el
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-11.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=en-GB
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-12.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=es
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-13.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=eu
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-14.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=fa
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-15.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=fi
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-16.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=fr
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-17.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=ga
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-18.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=gl
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-19.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=gu
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-20.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=he
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-21.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=hi
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-22.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=hr
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-23.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=hu
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-24.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=id
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-25.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=it
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-26.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=ja
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-27.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=kn
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-28.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=ko
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-29.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=mr
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-30.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=ms
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-31.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=nb
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-32.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=nl
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-33.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=pl
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-34.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=pt
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-35.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=ro
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-36.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=ru
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-37.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=sk
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-38.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=sr
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-39.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=sv
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-40.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=ta
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-41.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=th
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-42.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=tr
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-43.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=uk
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-44.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=ur
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-45.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=vi
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-46.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=zh
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-47.html
+Content Type: text/html
+
+Uri: https://twitter.com/hypealiens?lang=zh-Hant
+File Name: C:\Downloaded Web Sites\hypealiens.host\hypealiens-48.html
+Content Type: text/html
+
+Uri: https://abs.twimg.com/responsive-web/client-web-legacy/icon-svg.168b89d5.svg
+File Name: C:\Downloaded Web Sites\hypealiens.host\responsive-web\client-web-legacy\icon-svg.168b89d5.svg
+Content Type: image/svg+xml
+
+Uri: https://abs.twimg.com/favicons/twitter.2.ico
+File Name: C:\Downloaded Web Sites\hypealiens.host\favicons\twitter.2.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://abs.twimg.com/responsive-web/client-web-legacy/icon-ios.b1fc7275.png
+File Name: C:\Downloaded Web Sites\hypealiens.host\responsive-web\client-web-legacy\icon-ios.b1fc7275.png
+Content Type: image/png
+
+Uri: https://legal.twitter.com/imprint
+File Name: C:\Downloaded Web Sites\hypealiens.host\imprint.html
+Content Type: text/html
+
+Uri: https://business.twitter.com/en/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo
+File Name: C:\Downloaded Web Sites\hypealiens.host\en\help\troubleshooting\how-twitter-ads-work.html
+Content Type: text/html
+
+Uri: https://abs.twimg.com/errors/logo46x38.png
+File Name: C:\Downloaded Web Sites\hypealiens.host\errors\logo46x38.png
+Content Type: image/png
+
+Uri: https://abs.twimg.com/errors/logo46x38@2x.png
+File Name: C:\Downloaded Web Sites\hypealiens.host\errors\logo46x38@2x.png
+Content Type: image/png
+
+Uri: https://help.twitter.com/ru/using-twitter/twitter-supported-browsers
+File Name: C:\Downloaded Web Sites\hypealiens.host\ru\using-twitter\twitter-supported-browsers.html
+Content Type: text/html
+
+Uri: https://twitter.com/ru/tos
+File Name: C:\Downloaded Web Sites\hypealiens.host\ru\tos.html
+Content Type: text/html
+
+Uri: https://twitter.com/ru/privacy
+File Name: C:\Downloaded Web Sites\hypealiens.host\ru\privacy.html
+Content Type: text/html
+
+Uri: https://help.twitter.com/ru/rules-and-policies/twitter-cookies
+File Name: C:\Downloaded Web Sites\hypealiens.host\ru\rules-and-policies\twitter-cookies.html
+Content Type: text/html
+
